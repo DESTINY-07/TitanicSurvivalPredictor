@@ -1,0 +1,2 @@
+gutFeel,sex,PassengerId,Pclass,Age,SibSp,Parch,Fare,output,timestamp
+1,0,414,2,29.6,0,0,0,Passenger Survived,2025-08-27 16:04:20.520648
